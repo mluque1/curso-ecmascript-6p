@@ -1,6 +1,6 @@
 /*
 =======================================
-     SECCION EMACSCRIPT 6
+         SECCION EMACSCRIPT 6
 =======================================
 ---------------------------------------
 CLASE 1: Default Params y Concatenación
